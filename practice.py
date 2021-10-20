@@ -12,7 +12,7 @@ def sub(x,y):
 def rem(x,y):
     return x%y
     
-with open("output.txt",'w') as f:
+with open("output.txt",'a') as f:
     x=30;y=10
     f.write("addationof two number is: "+str(add(x,y))+"\n")
     f.write("substraction of two numbers is:"+str(sub(x,y))+"\n")
