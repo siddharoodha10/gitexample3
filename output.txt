@@ -37,3 +37,8 @@ substraction of two numbers is:20
 Multiplication of two number is:300
 division of the two numbers is:3
 
+addationof two number is: 40
+substraction of two numbers is:20
+Multiplication of two number is:300
+division of the two numbers is:3
+
