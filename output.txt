@@ -7,3 +7,9 @@ Remendr of the x and y is:0
 hi santosh,
 how are you?
 Iam fine. What about you siddu?
+addationof two number is: 40
+substraction of two numbers is:20
+Multiplication of two number is:300
+division of the two numbers is:3
+Remendr of the x and y is:0
+
