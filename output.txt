@@ -12,4 +12,9 @@ substraction of two numbers is:20
 Multiplication of two number is:300
 division of the two numbers is:3
 Remendr of the x and y is:0
+addation of two number is: 30 and time taken is:2.0107386112213135
+substraction of two numbers is:20 and time taken is:2.0021111965179443
+Multiplication of two number is:300 and time taken is:2.013113498687744
+division of the two numbers is:3 and time taken is:2.0001792907714844
+Remendr of the x and y is:0 and time taken is:2.0019102096557617
 
